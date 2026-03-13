@@ -685,6 +685,10 @@ footer {
   .nav-right {
     gap: 0.6rem;
   }
+
+    .nav-cta {
+    display: none;
+  }
 }
 
 @media (max-width: 640px) {
